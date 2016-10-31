@@ -1,9 +1,9 @@
 # TecnoNutri-v2.0
 Versão de reposta ao teste proposto.
 
-Foi possível a execução da tela 1, existem alguns problemas com o sincronismo das imagens pois os threads e diversas melhorias a serem realizadas, dado o prazo proposto essa foi a versão que consegui concluir.
+Foi possível a execução da tela 1, existem alguns problemas com o sincronismo das imagens pois os threads e diversas melhorias a serem realizadas, dado o prazo proposto essa foi a versão concluída.
 
-Foi possivel fazer a leitura do feed pela API utilizando o JSON entretando não consegui implementar o dropdown refresh nem o infine scrolling.
+Foi possivel fazer a leitura do feed pela API utilizando o JSON entretando está faltando implementar o dropdown refresh e o infine scrolling.
 
 Refrências:
 Android Versions:
@@ -36,4 +36,7 @@ https://developer.android.com/training/material/lists-cards.html
 
 Exemple AsyncTask (Udacity)
 https://github.com/udacity/Sunshine-Version-2/blob/2.01_add_network_code/app/src/main/java/com/example/android/sunshine/app/MainActivity.java
+
+Android Layouts: Linear Layout, Relative Layout and Table Layout
+http://www.androidhive.info/2011/07/android-layouts-linear-layout-relative-layout-and-table-layout/
 
